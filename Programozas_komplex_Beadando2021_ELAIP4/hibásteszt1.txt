@@ -1,0 +1,4 @@
+Bemenet
+N = 0
+Kimenet
+Helytelen bemenet próbálja újra...

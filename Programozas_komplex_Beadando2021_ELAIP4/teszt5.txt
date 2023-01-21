@@ -1,0 +1,10 @@
+N = 3
+M = 3
+MaxPontszámok = 10 10 10 
+MinPontszámok = 1 1 1 
+kutyaMatrix =
+1 1 1 
+6 6 6 
+10 10 3 
+Kimenet
+2 1 2

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Programozas_komplex_Beadando2021_ELAIP4", "Programozas_komplex_Beadando2021_ELAIP4.csproj", "{EFD7FF9B-9883-4B96-AD29-A9D0E11DCB44}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EFD7FF9B-9883-4B96-AD29-A9D0E11DCB44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFD7FF9B-9883-4B96-AD29-A9D0E11DCB44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFD7FF9B-9883-4B96-AD29-A9D0E11DCB44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFD7FF9B-9883-4B96-AD29-A9D0E11DCB44}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1655719D-5658-42E8-9E82-FBAB1A6C485C}
+	EndGlobalSection
+EndGlobal

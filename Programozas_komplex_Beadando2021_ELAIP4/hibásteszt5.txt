@@ -1,0 +1,11 @@
+Bemenet
+N = 3
+M = 3
+MaxPontszámok = 5 5 5
+MinPontszámok = 2 2 2
+KutyaMatrix =
+3 3 3
+3 3 3
+3 3 6
+Kimenet
+Helytelen bemenet próbálja újra...

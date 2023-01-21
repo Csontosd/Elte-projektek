@@ -1,0 +1,9 @@
+Bemenet
+N = 1
+M = 1
+MaxPontszámok = 10
+MinPontszámok = 1
+kutyaMatrix =
+1
+Kimenet
+0

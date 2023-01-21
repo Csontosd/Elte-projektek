@@ -1,0 +1,6 @@
+Bemenet
+N = 6
+M = 10
+MaxPontszámok = 10 10 10 10 10 10 10
+Kimenet
+Helytelen bemenet próbálja újra...

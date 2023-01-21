@@ -1,0 +1,5 @@
+Bemenet
+N = 3
+M = cydfa
+Kimenet
+Helytelen bemenet próbálja újra...

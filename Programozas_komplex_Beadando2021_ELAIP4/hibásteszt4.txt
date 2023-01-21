@@ -1,0 +1,7 @@
+Bemenet
+N = 5
+M = 5
+MaxPontszámok = 10 10 10 10 10 10 
+MinPontszámok = 0 2 5 7 3 1
+Kimenet
+Helytelen bemenet próbálja újra...
